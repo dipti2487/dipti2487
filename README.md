@@ -1,6 +1,6 @@
 ### Hi there 👋
-    <h1>I am dipti2487😊 </h1>
-         <p> A passionate full stack Python Developer. Currently working with Brainzaa Inc.</p>
+    I am dipti2487😊
+         A passionate full stack Python Developer. Currently working with Brainzaa Inc.
 
 - 
 - 💬 Ask me about Python/Django/react-JS.😀
