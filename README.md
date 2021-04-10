@@ -6,6 +6,5 @@
 - 💬 Ask me about Python/Django/react-JS.😀
 - 📫 How to reach me: email me @diptikprajapati@gmail.com
 - 😄 Pronouns: You can call me Dips/Dipu
-- ⚡ Fun fact: Talkative by nature 😄
 - 🚗 -Love to travel new places.
 
